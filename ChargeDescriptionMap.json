@@ -104,5 +104,6 @@
     "GasUsageWinter_First": "`冬天煤气用量 - 前${args[0]}MJ/天($/MJ)`",
     "GasUsageWinter_Step": "`冬天煤气用量 - 前${args[0]}到${args[1]} MJ/天 ($/MJ)`",
     "GasUsageWinter_Last": "`冬天剩余煤气用量 ($/MJ)`"
+    "Test":"Test"
   }
 }
